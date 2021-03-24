@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/shopping-bag-full-of-fresh-vegetables-and-fruits-royalty-free-image-1128687123-1564523576.jpg")}
+
+td{text-align:center;color: #ffff00;}
+th{color:green; font-size: 60px;}
+a{color:blue; text-decoration: none; }
+
+
+table,th,td{
+
+border: 1px solid black;
+padding: 30px;
+border-collapse:collapse;
+
+}
+</style>
+
+</head>
+
+
+<body>
+
+
+
+
+<h1 Style="font-family:Verdana; text-align:center;">GROCERIES LIST</h1>
+
+<table style="width:100%;">
+<tr>
+<th>SL. NO.</th>
+<th>Items</th>
+<th>Pictures</th>
+</tr>
+
+<tr>
+<td>1. </td>
+<td>Brinjal</td>
+<td><a href="https://www.haifa-group.com/sites/default/files/crop/eggplant%20iso.jpg" target="_blank">Click to view Brinjal</a></td>
+</tr>
+
+<tr>
+<td>2. </td>
+<td>Carrot</td>
+<td><a href="https://image.shutterstock.com/image-photo/fresh-carrot-cut-pieces-isolated-260nw-481776079.jpg" target="_blank">Click to view carrot</a></td>
+</tr>
+
+<tr>
+<td>3. </td>
+<td>Watermelon</td>
+<td><a href="https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/health_benefits_of_watermelon_slideshow/650x350_health_benefits_of_watermelon_slideshow.jpg" target="_blank">Click to view Watermelon</a></td>
+</tr>
+
+<tr>
+<td>4. </td>
+<td>Orange</td>
+<td><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfxS4W4ZW8Hx2PPYS6wg834DylQ8Fd0dst4Q&usqp=CAU" target="_blank">Click to view Orange</a></td>
+</tr>
+
+<tr>
+<td>5.</td>
+<td>Mango</td>
+<td><a href="https://i.pinimg.com/originals/e0/a2/5a/e0a25a304525745be38723e21f6f07fa.jpg" target="_blank">Click to view Mango</a></td>
+</tr>
+
+<tr>
+<td>6.</td>
+<td>Tomato</td>
+<td><a href="https://wallpapercave.com/wp/wp2030792.jpg" target="_blank">Click to view Tomato</a></td>
+</tr>
+
+
+</table>
+</body>
+</html>
